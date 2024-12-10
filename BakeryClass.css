@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/042/368/324/non_2x/baking-bakery-with-cake-and-bread-background-free-vector.jpg);
+    text-align: center;
+    background-size: cover;
+}
+
+.hidden{
+    display: none;
+}
+.char-counter{
+    color: grey;
+    text-align: right;
+}
+form{
+    border-radius: 10px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    background-color: rgb(216, 172, 189);
+    border: 3px dotted darkred;
+    padding: 10px;
+}
+textarea, select{
+    width: 100px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+label{
+    display: block;
+    padding: 10px;
+}
